@@ -1,2 +1,26 @@
-# Ai_spam_detector_engineering_study_notes
-My Personal learning notes documenting my journey in artificial intelligence machine learning and python programming 
+# AI/ML Engineering Study Notes
+
+## About This Repository
+Welcome to my AI/ML Engineering Study Notes repository. this repository documents my learning journey in Artificial Intelligence, Machine learning, and python programming
+it contains beginner-friendly explanations of important concepts, practical exercises, and lessons learned while developing my prograamming and machine-learning skills
+
+## Topics Covered
+- Dataset Preparation
+- Text Preprocessing
+- TF-IDF
+- Naive Bayes
+- Model Training
+- Model Prediction
+- Model Evaluation
+
+## Featured Project
+AI Spam Detector- A machine learning project that classifies text message as Spam or Ham using TF-IDF and Naive Bayes.
+
+A machine-learning project that classifies text messages as Spam or Ham using TF-IDF and Naive Bayes.
+
+## My Learning Goal
+My goal is to become a professional AI/ML Engineer and build practical solutions using Artificial Intelligence and Machine Learning.
+
+## Author
+Nonso Miracle Adubasim
+Aspiring AI/ML engineer | Python learner | Machine Learning Enthusiast
